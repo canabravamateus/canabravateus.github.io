@@ -1,0 +1,95 @@
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #F2FFFC;
+    font-size: 120%;
+    width: 80%;
+}
+
+h1,
+h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-transform: uppercase;
+}
+
+.sobremim {
+    font-size: 40px;
+    background-color: lightgrey;
+    color: red;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+.main-curriculo {
+    display: inline-block;
+    padding: 30px 0;
+    background-color: #FFF8DC;
+    text-align: center;
+}
+
+.Pagina-Principal {
+    margin: auto;
+    padding: 30px 0;
+    background-color: #FFF8DC;
+    display: inline-block;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.citacaoari {
+    background-color: lightgrey;
+    border-radius: 40px;
+    width: 250px;
+    border-style: hidden;
+    margin: 20px 40px;
+    float: right;
+}
+
+.citacao2 {
+    background-color: lightgrey;
+    border-radius: 40px;
+    width: 850px;
+    border-style: hidden;
+    margin: 20px 40px;
+}
+
+cite {
+    font-style: italic;
+    float: right;
+}
+
+img {
+    float: right;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+blockquote,
+footer {
+    padding: 25px;
+}
+
+.nomecurriculo {
+    background-color: lightgrey;
+    color: red;
+    text-align: center;
+}
+
+.rodape {
+    background-color: #000;
+    color: #F2FFFC;
+    width: 100%;
+}
+
+.redessocais {
+    width: 40px;
+    height: 40px;
+}

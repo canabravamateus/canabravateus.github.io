@@ -1,0 +1,25 @@
+body {
+font-family: "Times New Roman", serif;
+background-color:#f2fffc;
+font-size: 120%;
+}
+
+h1{
+text-alig:center;
+background-color:#008000;
+color:#fff;
+}
+
+h4{text-alig:center;
+background-color:#DAA520;
+color:#fff;
+}
+
+h5{
+  text-align: justify;
+
+}
+
+.text:target{
+  border: 1px solid #000;
+}
